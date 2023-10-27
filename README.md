@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anagabymori
 - 👀 I’m interested in jogos
 - 🌱 I’m currently learning como acessar o github
-- 💞️ I’m looking to collaborate on minha escola
+- 💞️ I’m looking to collaborate com a minha escola
 - 📫 How to reach me ...
 
 <!---
